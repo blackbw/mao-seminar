@@ -7,7 +7,10 @@ https://elmas3.github.io/mao-seminar/
 魔王教授
 エルマス
 わかば
+<<<<<<< HEAD
 ぼく
+=======
+>>>>>>> 7ec3cfd676385e0c3d948780a1b1a06f68986c6f
 
 # ディレクトリ構成
 ```
